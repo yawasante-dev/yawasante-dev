@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Kelvin%20Agyare%20Yeboah&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20Dev&descAlignY=58&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Yaw%20Asante%20Boadu-Acheampong&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20Dev&descAlignY=58&descColor=aaaaaa" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+%F0%9F%A4%96;Full+Stack+%7C+ML+%7C+Blockchain+Developer;Founder+%40+Zoharix+%7C+TechTutor+TV+Creator;Ghana+%232+on+GitHub+%F0%9F%87%AC%F0%9F%87%AD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+%F0%9F%A4%96;Full+Stack+%7C+ML+%7C+Blockchain+Developer;Ghana+%232+on+GitHub+%F0%9F%87%AC%F0%9F%87%AD" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zoharix.com-24243e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zoharix.com)
-[![Email](https://img.shields.io/badge/Email-onlykelvin06@gmail.com-24243e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlykelvin06@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yawasantedev@gmail.com-24243e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yawasantedev@gmail.com)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yawasante-dev.yawasante-dev)](https://github.com/yawasante-dev)
 
 </div>
@@ -20,11 +19,10 @@
 
 > *"Technology isn't just about coding — it's about creating, innovating, and making a meaningful impact on global society."*
 
-I'm a **Software Engineer, ML Developer, and Full Stack Developer** with a passion for building scalable, intelligent systems. Currently focused on pushing the boundaries of AI/ML while also crafting polished web experiences.
+I'm a **Software Engineer, ML Developer, and Full Stack Developer** from Ghana with a passion for building scalable, intelligent systems. Currently focused on pushing the boundaries of AI/ML while also crafting polished web experiences.
 
-- 🔭 Building **JobPilotAI** — an end-to-end career prep platform for tech professionals
 - 🧠 Deepening expertise in **AI/ML, Python, and Full-Stack (MERN)**
-- 🌍 Founder @ **[Zoharix](https://zoharix.com)** | Creator @ **TechTutor TV**
+- 🏆 Ranked **Ghana #2** in public contributions & commits on GitHub
 - 🤝 Open to collaborations on impactful, research-driven projects
 
 ---
@@ -77,7 +75,7 @@ I'm a **Software Engineer, ML Developer, and Full Stack Developer** with a passi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cockey_guy)
-[![YouTube](https://img.shields.io/badge/TechTutor%20TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yawasantedev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yawasantedev)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yawasante-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-yawasantedev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yawasantedev@gmail.com)
 
