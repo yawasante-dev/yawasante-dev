@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+%F0%9F%A4%96;Full+Stack+%7C+ML+%7C+Blockchain+Developer;Ghana+%232+on+GitHub+%F0%9F%87%AC%F0%9F%87%AD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+%F0%9F%A4%96;Full+Stack+%7C+ML+%7C+Blockchain+Developer" alt="Typing SVG" />
 
 <br/>
 
@@ -28,19 +28,14 @@ I'm a **Software Engineer, ML Developer, and Full Stack Developer** from Ghana w
 
 ## 🛠️ Technical Skills
 
-### Full Stack Development
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,tailwind,sass,webpack,mongodb,git&theme=dark" />
-</p>
-
-### AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=django,mysql,firebase,linux,figma,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
