@@ -28,14 +28,19 @@ I'm a **Software Engineer, ML Developer, and Full Stack Developer** from Ghana w
 
 ## 🛠️ Technical Skills
 
-### Frontend Development
+### Full Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,tailwind,sass,webpack,mongodb,git&theme=dark" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=django,mysql,firebase,linux,figma,vscode,github&theme=dark" />
 </p>
 
 ---
