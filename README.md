@@ -21,8 +21,8 @@
 
 I'm a **Software Engineer, ML Developer, and Full Stack Developer** from Ghana with a passion for building scalable, intelligent systems. Currently focused on pushing the boundaries of AI/ML while also crafting polished web experiences.
 
-- 🧠 Deepening expertise in **AI/ML, Python, and Full-Stack (MERN)**
-- 🤝 Open to collaborations on impactful, research-driven projects
+- 🧠 Deepening expertise in **AI/ML, Python, and Full-Stack (MERN)**.
+- 🤝 Open to collaborations on impactful, research-driven projects.
 
 ---
 
