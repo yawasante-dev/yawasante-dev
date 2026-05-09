@@ -40,7 +40,8 @@ I'm a **Software Engineer, ML Developer, and Full Stack Developer** from Ghana w
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=django,mysql,firebase,linux,figma,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 </p>
 
 ---
