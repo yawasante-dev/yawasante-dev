@@ -67,11 +67,36 @@ const yaw = {
 ## 🌍 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>&nbsp;
-<a href="https://x.com/cockey_guy"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>&nbsp;
-<a href="https://www.youtube.com/@yawasantedev"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>&nbsp;
-<a href="mailto:yawasantedev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="32"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/yawasante-dev" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="32" width="32"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://x.com/cockey_guy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="32" width="32"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@yawasantedev" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="32" width="32"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:yawasantedev@gmail.com" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="32" width="32"/>
+  </a>
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawasante-dev&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&hide_border=true"/>
+
+</div>
 
 ---
 
