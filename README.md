@@ -36,17 +36,14 @@ const yaw = {
 
 ## ⚙️ Tech Stack
 
-**Full Stack**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,tailwind,sass,mongodb,git&theme=dark" />
 </p>
 
-**AI / Machine Learning**
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
 </p>
 
-**Tools & Platforms**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
