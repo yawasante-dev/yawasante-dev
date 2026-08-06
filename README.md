@@ -55,7 +55,7 @@ const yaw = {
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect With Me @
 
 <p align="left">
   <a href="https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348" target="_blank">
