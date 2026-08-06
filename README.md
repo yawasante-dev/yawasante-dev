@@ -44,12 +44,14 @@ const yaw = {
 
 ---
 
-# 📊 GitHub Stats
-
+## GitHub Stats
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=yawasante-dev&theme=midnight-purple"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yawasante-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache=1785898186" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yawasante-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawasante-dev&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 
 </div>
 
@@ -78,19 +80,6 @@ const yaw = {
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="32" width="32"/>
   </a>
 </p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yawasante-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache=1785898186" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yawasante-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawasante-dev&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-
-</div>
 
 ---
 
