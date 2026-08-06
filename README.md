@@ -94,16 +94,6 @@ const yaw = {
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawasante-dev&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 💜 **Built from Accra, Ghana 🇬🇭**
