@@ -53,6 +53,8 @@ const yaw = {
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawasante-dev&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
+
 </div>
 
 ---
