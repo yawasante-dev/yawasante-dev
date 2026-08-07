@@ -1,11 +1,13 @@
 <p align="right">
-  <a href="https://komarev.com/ghpvc/?username=agudu50">
+  <a href="https://komarev.com/ghpvc/?username=yawasante-dev">
     <img src="https://komarev.com/ghpvc/?username=yawasante-dev&label=Visitors&color=8B5CF6&style=for-the-badge&logo=github" alt="Profile visitor"/>
   </a>
 </p>
 ---
 
 <div align="center">
+
+img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Yaw%20Asante&subtitle=Co-Founder%20@%20Zoharix&fontSize=40&subFontSize=18&fontAlignY=40&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A9FEF7&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%2B+ML+Developer;Co-Founder+%40+Zoharix;Building+scalable%2C+intelligent+systems" alt="Typing SVG" />
 
