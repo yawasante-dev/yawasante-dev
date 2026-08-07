@@ -1,10 +1,3 @@
-<p align="right">
-  <a href="https://komarev.com/ghpvc/?username=yawasante-dev">
-    <img src="https://komarev.com/ghpvc/?username=yawasante-dev&label=Visitors&color=8B5CF6&style=for-the-badge&logo=github" alt="Profile visitor"/>
-  </a>
-</p>
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Yaw%20Asante&subtitle=Co-Founder%20@%20Zoharix&fontSize=40&subFontSize=18&fontAlignY=40&animation=twinkling" width="100%"/>
