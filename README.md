@@ -46,6 +46,14 @@ const yaw = {
 
 ---
 
+# 📊 Language Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yawasante-dev)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yawasante-dev)
+
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -55,17 +63,9 @@ const yaw = {
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawasante-dev&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yawasante-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
 
 </div>
-
----
-
-# 📊 Language Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yawasante-dev)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yawasante-dev)
 
 ---
 
