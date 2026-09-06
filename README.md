@@ -187,7 +187,7 @@ const yaw: Developer = {
       <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub"/>
     </a>
     <a href="mailto:yawasantedev@gmail.com">
-     <img src="https://cdn.simpleicons.org/gmail/ffffff" width="40" height="40" alt="Gmail"/>
+     <img src="https://cdn.simpleicons.org/mail/ffffff" width="40" height="40" alt="Mail"/>
     </a>
   </p>
 
