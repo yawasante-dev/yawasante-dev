@@ -80,8 +80,7 @@ const yaw = {
 
 ## 🌍 Connect With Me @
 
-<div>
-  <p align="left">
+<p align="left">
     <a href="https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="32"/>
     </a>&nbsp;&nbsp;
@@ -101,9 +100,7 @@ const yaw = {
     <a href="mailto:yawasantedev@gmail.com" target="_blank">
       <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="32" width="32"/>
     </a>
-  </p>
-  
-</div>
+</p>
 
 ---
 
