@@ -119,7 +119,7 @@ const yaw: Developer = {
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=kelvinagyareyeboah&theme=dracula"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=yawasante-dev&theme=dracula"/>
 
 </div>
 
