@@ -98,15 +98,10 @@ const yaw: Developer = {
 
 <div align="center">
 
-<!--
-  Replace REPO_NAME_1 and REPO_NAME_2 with your actual public repo names.
-  You can pin up to 2 repos this way.
--->
-
-<a href="https://github.com/yawasante-dev/REPO_NAME_1">
+<a href="https://github.com/yawasante-dev/StudyHub">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yawasante-dev&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A9FEF7&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/yawasante-dev/REPO_NAME_2">
+<a href="https://github.com/yawasante-dev/wave-chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yawasante-dev&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A9FEF7&text_color=c9d1d9" />
 </a>
 
