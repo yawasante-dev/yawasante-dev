@@ -131,6 +131,8 @@ const yaw: Developer = {
 <div align="center">
  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=yawasante-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&include_all_commits=true"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yawasante-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
+  <br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawasante-dev&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=A9FEF7&area=true&hide_border=true" />
 </div>
 
 ---
