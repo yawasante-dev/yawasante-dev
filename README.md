@@ -189,6 +189,8 @@ const yaw: Developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=120&section=footer&animation=twinkling"/>
 
+<img src="https://komarev.com/ghpvc/?username=yawasante-dev&label=Profile+Views&color=7c3aed&style=flat" alt="profile views" />
+
 **💜 Built with intent — from Accra, Ghana 🇬🇭**
 
 </div>
