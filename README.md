@@ -133,11 +133,11 @@ const yaw: Developer = {
 
 ---
 
-## 🏆 Trophies
+# 📋 Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yawasante-dev&theme=discord&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A,B"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinagyareyeboah&theme=dracula"/>
 
 </div>
 
