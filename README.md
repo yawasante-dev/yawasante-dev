@@ -159,27 +159,40 @@ const yaw: Developer = {
 
 ---
 
-## 🌍 Let's Connect
-
 <div align="center">
+  <h2>🌐 Connect With Me</h2>
 
-<a href="https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/yawasante-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>&nbsp;
-<a href="https://x.com/cockey_guy">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>&nbsp;
-<a href="https://www.youtube.com/@yawasantedev">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:yawasantedev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <p>
+    <a href="https://wa.me/+233507419359">
+      <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/iam_deasante">
+      <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.snapchat.com/add/gudujnr008">
+      <img src="https://cdn.simpleicons.org/snapchat/FFFC00" width="40" height="40" alt="Snapchat"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://x.com/cockey_guy">
+      <img src="https://cdn.simpleicons.org/x/ffffff" width="40" height="40" alt="X"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/yawasante-dev">
+      <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub"/>
+    </a>
+    <a href="mailto:yawasantedev@gmail.com">
+     <img src="https://cdn.simpleicons.org/gmail/ffffff" width="40" height="40" alt="Gmail"/>
+    </a>
+  </p>
 
-<br/><br/>
+  <br/>
+
 
 > 💬 *Open to collaborations, interesting problems, and conversations about AI, products, and building.*
 
