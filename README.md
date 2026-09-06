@@ -80,27 +80,30 @@ const yaw = {
 
 ## 🌍 Connect With Me @
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="32"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://github.com/yawasante-dev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="32" width="32"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://x.com/cockey_guy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="32" width="32"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.youtube.com/@yawasantedev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="32" width="32"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:yawasantedev@gmail.com" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="32" width="32"/>
-  </a>
-</p>
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="32"/>
+    </a>&nbsp;&nbsp;
+  
+    <a href="https://github.com/yawasante-dev" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="32" width="32"/>
+    </a>&nbsp;&nbsp;
+  
+    <a href="https://x.com/cockey_guy" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="32" width="32"/>
+    </a>&nbsp;&nbsp;
+  
+    <a href="https://www.youtube.com/@yawasantedev" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="32" width="32"/>
+    </a>&nbsp;&nbsp;
+  
+    <a href="mailto:yawasantedev@gmail.com" target="_blank">
+      <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="32" width="32"/>
+    </a>
+  </p>
+  
+</div>
 
 ---
 
