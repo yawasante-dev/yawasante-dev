@@ -114,20 +114,12 @@ const yaw: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yawasante-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A9FEF7&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yawasante-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A9FEF7&currStreakLabel=8B5CF6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawasante-dev&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=A9FEF7&area=true&area_color=8B5CF620&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawasante-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=kelvinagyareyeboah&theme=dracula"/>
 
 </div>
 
