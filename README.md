@@ -84,7 +84,11 @@ const yaw: Developer = {
 
 ---
 
-# 📊 Language Stats ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yawasante-dev) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yawasante-dev)
+# 📊 Language Stats 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yawasante-dev) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yawasante-dev)
 
 ---
 
