@@ -1,111 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Yaw%20Asante&subtitle=Co-Founder%20@%20Zoharix&fontSize=40&subFontSize=18&fontAlignY=40&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=220&section=header&text=Yaw%20Asante&desc=Building%20Intelligent%20Systems%20from%20Accra%20🇬🇭&fontSize=52&descSize=18&fontAlignY=40&descAlignY=62&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A9FEF7&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%2B+ML+Developer;Co-Founder+%40+Zoharix;Building+scalable%2C+intelligent+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%2B+ML+Developer;Co-Founder+%40+Zoharix;Turning+Ideas+into+Scalable+Products;From+Accra+%F0%9F%87%AC%F0%9F%87%AD+to+the+World" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=yawasante-dev&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/yawasante-dev)
+[![Years Badge](https://badges.strathweb.com/api/badge?username=yawasante-dev&type=years&style=for-the-badge&color=8B5CF6)](https://github.com/yawasante-dev)
 
 </div>
 
 ---
 
-## `$ whoami`
+## ⚡ `$ whoami`
 
-```js
-const yaw = {
-  name     : "Yaw Asante Boadu-Acheampong",
-  base     : "Accra, Ghana",
-  role     : "Software Engineer & ML Developer",
-  company  : "@Zoharix",
-  focus    : [
-    "Full-stack web systems (MERN)",
-    "AI / Machine Learning, Python",
-    "Clean, scalable architecture",
-  ],
-  mindset  : "Technology isn't just about coding — it's about creating, innovating, and making a meaningful impact.",
+```typescript
+const yaw: Developer = {
+  name:     "Yaw Asante Boadu-Acheampong",
+  title:    "Software Engineer · ML Developer · Co-Founder",
+  company:  "Zoharix",
+  location: "Accra, Ghana 🇬🇭",
+
+  currently: {
+    building:  "Scalable, intelligent web products @ Zoharix",
+    exploring: "LLM integration & production ML pipelines",
+    learning:  "Deep learning architectures + system design at scale",
+  },
+
+  stack: {
+    frontend:  ["React", "TypeScript", "Vue.js", "Tailwind CSS"],
+    backend:   ["Node.js", "Express", "MongoDB"],
+    ml:        ["Python", "PyTorch", "TensorFlow", "Scikit-learn"],
+    tooling:   ["Git", "GitHub", "VS Code"],
+  },
+
+  philosophy: `Technology isn't just about writing code —
+               it's about creating leverage and making things that matter.`,
 };
 ```
 
 ---
 
-## 🏗️ What I'm Building
+## 🏗️ What I'm Shipping
 
-### 🏢 Zoharix
-> Software engineering, with a focus on scalable, intelligent web systems.
-
-**Focus:** Deepening expertise in AI/ML and full-stack development while shipping polished, production-ready products — not tutorial clones.
-
----
-
-## ⚙️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,tailwind,sass,mongodb,git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
----
-
-# 📊 Language Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yawasante-dev)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yawasante-dev)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Zoharix</h3>
+      <p>Co-founding a software engineering studio focused on scalable, intelligent web systems. Shipping polished, production-ready products — not tutorial clones.</p>
+      <img src="https://img.shields.io/badge/Status-Active-8B5CF6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Focus-Full--Stack+%2B+AI-A9FEF7?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 ML & AI Tooling</h3>
+      <p>Integrating LLMs into real products, building computer vision pipelines, and making machine learning practical — not academic.</p>
+      <img src="https://img.shields.io/badge/Status-Ongoing-8B5CF6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Stack-PyTorch+%2B+Python-A9FEF7?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yawasante-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache=1785898186" />
+**Frontend**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawasante-dev&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,sass&theme=dark"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yawasante-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+
+**AI / Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark"/>
+
+**Tooling & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 
 </div>
 
 ---
 
-# 📋 Profile Summary
+## 📌 Featured Projects
+
+> *Built to solve real problems, not just fill a portfolio.*
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yawasante-dev&theme=dracula"/>
+<!--
+  Replace REPO_NAME_1 and REPO_NAME_2 with your actual public repo names.
+  You can pin up to 2 repos this way.
+-->
+
+<a href="https://github.com/yawasante-dev/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yawasante-dev&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A9FEF7&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/yawasante-dev/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yawasante-dev&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A9FEF7&text_color=c9d1d9" />
+</a>
 
 </div>
 
 ---
 
-## 🌍 Connect With Me @
+## 📊 GitHub Stats
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="32"/>
-    </a>&nbsp;&nbsp;
-  
-    <a href="https://github.com/yawasante-dev" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="32" width="32"/>
-    </a>&nbsp;&nbsp;
-  
-    <a href="https://x.com/cockey_guy" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="32" width="32"/>
-    </a>&nbsp;&nbsp;
-  
-    <a href="https://www.youtube.com/@yawasantedev" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="32" width="32"/>
-    </a>&nbsp;&nbsp;
-  
-    <a href="mailto:yawasantedev@gmail.com" target="_blank">
-      <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="32" width="32"/>
-    </a>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yawasante-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A9FEF7&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yawasante-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A9FEF7&currStreakLabel=8B5CF6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawasante-dev&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=A9FEF7&area=true&area_color=8B5CF620&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawasante-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yawasante-dev&theme=discord&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A,B"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yawasante-dev/yawasante-dev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yawasante-dev/yawasante-dev/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/yawasante-dev/yawasante-dev/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 🌍 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/boadu-acheampong-asante-yaw-82b02a348">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/yawasante-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://x.com/cockey_guy">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>&nbsp;
+<a href="https://www.youtube.com/@yawasantedev">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:yawasantedev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💬 *Open to collaborations, interesting problems, and conversations about AI, products, and building.*
+
+</div>
 
 ---
 
 <div align="center">
 
-💜 **Built from Accra, Ghana 🇬🇭**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=120&section=footer&animation=twinkling"/>
+
+**💜 Built with intent — from Accra, Ghana 🇬🇭**
 
 </div>
