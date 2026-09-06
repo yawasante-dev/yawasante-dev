@@ -6,9 +6,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yawasante-dev&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/yawasante-dev)
-[![Years Badge](https://badges.strathweb.com/api/badge?username=yawasante-dev&type=years&style=for-the-badge&color=8B5CF6)](https://github.com/yawasante-dev)
-
 </div>
 
 ---
