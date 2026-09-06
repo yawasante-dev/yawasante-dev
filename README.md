@@ -125,6 +125,17 @@ const yaw: Developer = {
 
 ---
 
+### 📊 GitHub Analytics
+ 
+
+<div align="center">
+ <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=yawasante-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&include_all_commits=true"/>
+  <br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yawasante-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
+</div>
+
+---
+
 # 📋 Profile Summary
 
 <div align="center">
